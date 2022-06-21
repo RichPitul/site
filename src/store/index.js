@@ -19,7 +19,7 @@ export default createStore({
         image: "tile_jays.jpg",
         title: "Blue Jays Ticket Finder",
         subtitle: "Explore the Site",
-        path: "https://brewers.fanportal-mlb.com/2022-10packs/",
+        path: "https://bluejays.fanportal-mlb.com/ticketfinder-prod/",
       },      
       {
         image: "tile_smi.jpg",
