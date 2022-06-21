@@ -63,11 +63,13 @@ export default {
       width: 100%;
       height: 100%;
       background-color: rgba(0, 0, 0, 0.3);
-      transition: background-color 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+      transition: all 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+      backdrop-filter: blur(5px) brightness(70%);
     }
     &:hover {
       &:after {
         background-color: rgba(0, 0, 0, 0.65);
+        backdrop-filter: blur(0px) brightness(100%);
       }
       .details {
         color: #648dc2;

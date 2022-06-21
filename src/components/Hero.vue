@@ -9,7 +9,7 @@
         </p>
         <p class="gold">Distinct</p>
       </h2>
-      <HashButton href="#work-together" text="Let's Get Started" />
+      <HashButton href="#be-inspired" text="Let's Get Started" />
     </div>
   </section>
 </template>
