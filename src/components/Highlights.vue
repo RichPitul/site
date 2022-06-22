@@ -1,7 +1,7 @@
 <template>
     <section>
         <article>
-            <h3>Developed over 100 websites/applications for professional sports teams worldwide.</h3>
+            <h3>Developed over 200 websites/applications for professional sports teams worldwide.</h3>
             <p>At Channel 1 Media, I have worked with teams in all professional sports leagues in North America; including the NFL, NHL, MLB, NBA, MLS and Collegiate properties across the United States. I have also worked with professional soccer teams in the UK; Europe; and UAE.</p>
         </article>
         <article>
