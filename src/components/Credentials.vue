@@ -51,7 +51,7 @@
         <ul>
           <li>Tickets.com</li>
           <li>Braintree</li>
-          <li>Stripe</li>
+          <li>Stripe, Adyen</li>
           <li>Segment, Rollbar</li>
           <li>DocRaptor</li>
           <li>Vimeo, YouTube</li>
