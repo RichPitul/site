@@ -56,7 +56,7 @@
           <li>DocRaptor</li>
           <li>Vimeo, YouTube</li>
           <li>Twitter / Facebook</li>
-          <li>Google Servives</li>
+          <li>Google Services</li>
           <li>Amazon Web Services</li>
           <li>Push Notifications</li>
           <li>MapBox</li>
