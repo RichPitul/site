@@ -4,6 +4,24 @@ export default createStore({
   state: {
     navItems: [
       {
+        image: "tile_mets.jpg",
+        title: "New York Mets Suites",
+        subtitle: "Explore the Site",
+        path: "https://clippers.vipfanportal.com/salesportal/",
+      },
+      {
+        image: "tile_jays.jpg",
+        title: "Blue Jays Beyond",
+        subtitle: "Explore the Site",
+        path: "https://bluejays.fanportal-mlb.com/beyond/",
+      },      
+      {
+        image: "tile_cpkc.jpg",
+        title: "CPKC Stadium",
+        subtitle: "Explore the Site",
+        path: "https://cpkcstadium.com/",
+      },
+      {
         image: "tile_lions.jpg",
         title: "Detroit Lions Ticket Finder",
         subtitle: "Explore the Site",
@@ -15,30 +33,28 @@ export default createStore({
         subtitle: "Explore the Site",
         path: "https://enmarketarena.vipfanportal.com/",
       },
-       {
-        image: "tile_jays.jpg",
-        title: "Blue Jays Ticket Finder",
-        subtitle: "Explore the Site",
-        path: "https://bluejays.fanportal-mlb.com/ticketfinder-prod/",
-      },      
+      /*
       {
         image: "tile_smi.jpg",
         title: "Speedway Motorsports",
         subtitle: "Explore the Site",
         path: "https://speedwaypartner.com",
       },
+      */
       {
         image: "tile_allegiant.jpg",
         title: "Allegiant Stadium",
         subtitle: "Explore the Site",
         path: "http://allegiant-stadium.vipfanportal.com/entertainment/",
       },
+      /*
       {
         image: "tile_clippers.jpg",
         title: "Los Angeles Clippers",
         subtitle: "Explore the Site",
         path: "https://clippers.vipfanportal.com/salesportal/",
       },
+      */
       /*
       {
         image: "tile_brewers.jpg",

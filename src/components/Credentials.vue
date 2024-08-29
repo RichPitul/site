@@ -4,13 +4,13 @@
       <article>
         <h3>Languages/Libraries and Frameworks</h3>
         <ul>
-          <li>Javascript</li>
-          <li>Electron, Vue, React</li>
+          <li>ChatGPT, Gemini</li>
+          <li>Electron, Vue, React, Vite</li>
           <li>Node, Capacitor</li>
           <li>PWA</li>
           <li>Webpack, Gulp, NPM</li>
           <li>PHP 5-8</li>
-          <li>Cockpit CMS</li>
+          <li>SSO</li>
           <li>MySQL, PDO</li>
           <li>GIT, GitHub, Bitbucket</li>
           <li>CSS, SASS</li>
